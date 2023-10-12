@@ -1,0 +1,12 @@
+{
+"cards": [
+{
+"id":"Angular Project",
+"title": "Angular Project",
+"cover_image": "/img/blbg.jpg",
+"content":"Belief-Ministries is a landing page for what could be a website dedicated to helping individuals and organizations start their entrepreneurial spirit launch faith-based venture.",
+"buttonText":"Explore",
+"buttonLink":"https://beliefministries.netlify.app/"
+}
+]
+}
