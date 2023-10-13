@@ -2,7 +2,7 @@ import React from 'react'
 
 async function getCards() {
   try {
-    const res = await fetch('https://phillipbailey.vercel.app/_data/cards.json'); // Replace with the correct URL
+    const res = await fetch('https://phillipbailey.vercel.app/cards'); // Replace with the correct URL
 
     if (!res.ok) {
       // Handle errors, if any
