@@ -23,7 +23,7 @@ return (
 <div className="card-grid">
 {cards.map((card,index) => (
 <div key={index} className="card">
-<img width={0} height={0}  src={card.cover_image} alt="" />
+<img  src={card.cover_image} alt="" />
 <h2 className="card-title">{card.title}</h2>
 <div>
 <p className="card-content">{card.content}</p>
