@@ -7,6 +7,38 @@
 "content":"Belief-Ministries is a landing page for what could be a website dedicated to helping individuals and organizations start their entrepreneurial spirit launch faith-based venture.",
 "buttonText":"Explore",
 "buttonLink":"https://beliefministries.netlify.app/"
+},
+{
+"id":"Next Js Project",
+"title": "Next Js Project",
+"cover_image": "/img/gcbg.jpg",
+"content":"Gracious Crossings is a website for a potential home buying business that aims to provide individuals with the resources and support they need to find and purchase their dream home.",
+"buttonText":"Explore",
+"buttonLink":"https://gracious-crossing.vercel.app/"
+},
+{
+"id":"Next Js Project",
+"title": "Next Js Project",
+"cover_image": "/img/itbg.jpg",
+"content":"With a user-friendly website and a commitment to delivering news that matters, iTruth News ensures that its audience can easily access the latest updates and in-depth articles across a wide range of topics. ",
+"buttonText":"Explore",
+"buttonLink":"https://itruthnews.vercel.app/"
+},
+{
+"id":"Next Js Project",
+"title": "Next Js Project",
+"cover_image": "/img/jbg.png",
+"content":"Journey is a website that helps users find and plan their perfect vacation. With a wide range of destinations and activities to choose from, Journey makes it easy to discover new places and experiences.",
+"buttonText":"Explore",
+"buttonLink":"https://journeyvent.vercel.app/"
+},
+{
+"id":"Next Js Project",
+"title": "Next Js Project",
+"cover_image": "/img/tabg.jpg",
+"content":"ToDo app lets you to stay organized and on top of your responsibilities by allowing you to keep track of what you need to get done. You can also categorize your tasks by assigning them to different lists or projects.",
+"buttonText":"Explore",
+"buttonLink":"https://topdo.netlify.app/"
 }
 ]
 }

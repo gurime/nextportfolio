@@ -6,7 +6,7 @@ import propic from '../public/img/pro-phil.jpeg'
 import Footer from './Components/Footer';
 import Image from 'next/image';
 import DownloadRseume from './Components/DownloadRseume';
-import CardGrid from './Components/CardGrid';
+import CardList from './Components/CardList';
 
 
 
@@ -50,7 +50,7 @@ gap:'1pc'
 
 
 <div className='Mywork-Title'><h1>My Work</h1></div>
-<CardGrid/>
+<CardList/>
 <Footer/>
 </>
 )
