@@ -1,21 +1,18 @@
 import React from 'react'
 
 async function getCards() {
-  try {
-    const res = await fetch('https://phillipbailey.vercel.app/cards'); // Replace with the correct URL
-
-    if (!res.ok) {
-      // Handle errors, if any
-      throw new Error(`Failed to fetch data. Status: ${res.status}`);
+ 
+  
+  const res = await fetch('http://phillipbailey.vercel.app/cards', {
+    next: {
+      revalidate: 0 
     }
+  })
 
-    return res.json();
-  } catch (error) {
-    // Handle errors, e.g., network issues
-    console.error(error);
-    throw error; // Rethrow the error or handle it accordingly
-  }
+  return res.json()
 }
+
+
 
 
 
