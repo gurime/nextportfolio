@@ -3,7 +3,7 @@ import React from 'react'
 async function getCards() {
  
   
-  const res = await fetch('http://phillipbailey.vercel.app/cards', {
+  const res = await fetch('http://localhost:8000/cards', {
     next: {
       revalidate: 0 
     }
