@@ -28,7 +28,7 @@ justifyContent:'center',
 gap:'1pc'
 }}>
 <Link href="about" className="hero-button">Explore About</Link>
-<DownloadRseume/>
+{/* <DownloadRseume/> */}
 </div>
 
 </div>

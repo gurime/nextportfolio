@@ -5,7 +5,7 @@ import React from 'react'
 export default function DownloadRseume() {
     function downloadResume() {
         const element = document.createElement("a");
-        element.href = "./Resume.pdf"; 
+        element.href = "../Resume.pdf"; 
         element.download = "Resume"; 
         document.body.appendChild(element);
         element.click();
