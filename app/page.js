@@ -5,7 +5,7 @@ import Clock from './Components/Clock';
 import propic from '../public/img/pro-phil.jpeg'
 import Footer from './Components/Footer';
 import Image from 'next/image';
-import DownloadRseume from './Components/DownloadRseume';
+import DownloadResume from './Components/DownloadResume';
 import CardList from './Components/CardList';
 
 
@@ -28,7 +28,7 @@ justifyContent:'center',
 gap:'1pc'
 }}>
 <Link href="about" className="hero-button">Explore About</Link>
-{/* <DownloadRseume/> */}
+{/* <DownloadResume/> */}
 </div>
 
 </div>
