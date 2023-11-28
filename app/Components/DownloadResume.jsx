@@ -1,20 +1,19 @@
 'use client'
 import Link from 'next/link'
-import React from 'react'
+import { saveAs } from "file-saver";
 
 export default function DownloadRseume() {
-    function downloadResume() {
-        const element = document.createElement("a");
-        element.href = "../Resume.pdf"; 
-        element.download = "Resume"; 
-        document.body.appendChild(element);
-        element.click();
-        }
+  const handleDownload = () => {
+    saveAs(
+      "/Resume.docx",
+      "Resume.docx"
+    );
+  };
   return (
     <>
     <Link href="#!" 
 className="hero-button" 
-onClick={downloadResume}>Donwload Resume</Link>
+onClick={handleDownload}>Donwload Resume</Link>
     </>
   )
 }
