@@ -93,14 +93,13 @@ border:'solid 1px currentcolor'
 }} />
 <h1>INFORMATION TECHNIOLGY PROJECTS</h1>
 <p><b>Belief-Ministries:</b> is a mock church website that hosts events and provides resources for members and visitors.</p>
-<p><b>Barberfaith:</b> is a mock barber shop that provides haircuts and other grooming services, as well as offering assistance to those in need.</p>
-<p><b>GulimeShop:</b> is a mock ecommerce store that offers a diverse range of products in various categories, including tech, sports, fashion, and education.</p>
+
 <p><b>iTruth News:</b> is a mock news website that covers a wide range of topics, including tech, politics, sports, finances, education, world news, gaming, and fashion.</p>
-<p><b>Chick-a-licious:</b>  is a mock food ordering website that provides users with menus and information on available food items. </p>
+
 <p><b>Gracious-Crossing:</b>  is a mock project that provides users with a mortgage calculator tool that allows them to calculate their mortgage payments based on various factors such as loan amount, interest rate, and term. </p>
 <p><b>Journey:</b>  is a mock project that offers engaging, informative, and well-researched travel blogs and news that cater to different audiences..</p>
 
-<p><b>TopDo:</b> is a to-do list website that allows users to create and manage lists of tasks and projects. </p>
+
 
 
 <hr
