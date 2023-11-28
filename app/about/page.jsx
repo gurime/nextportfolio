@@ -4,6 +4,16 @@ import Clock from '../Components/Clock'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
 
+export const metadata = {
+ title: 'Phillip Bailey - About',
+ description: "Explore the digital portfolio of Phillip Andrew Bailey, a skilled Front-End Developer and UX/UI designer from LaFayette, Georgia. With a background in IT/Web Design and degrees from Southern New Hampshire University, Phillip combines technical expertise with aesthetic sensibility. Discover a world where form meets function, showcasing projects in Angular, React JS, Next Js, and design tools like Affinity Designer, Affinity Photo, and Figma. Let\'s bring your ideas to life! #WebDesign #FrontEndDevelopment #UXUI #DigitalCreativity"
+ ,
+
+ keywords: 'Phillip Bailey, Front-End Developer, UX/UI designer, LaFayette, Georgia, IT, Web Design, Angular, React JS, Next Js, Affinity Designer, Affinity Photo, Figma, Web Development, UI Design, User Experience, Technology, Programming, Computer Science, Portfolio, Creative Design, Digital Creativity, Design Trends, Collaboration'
+
+  }  
+
+
 export default function page() {
 return (
 <>
