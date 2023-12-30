@@ -104,9 +104,10 @@ border:'solid 1px currentcolor'
 <h1>INFORMATION TECHNIOLGY PROJECTS</h1>
 <p><b>Belief-Ministries:</b> is a mock church website that hosts events and provides resources for members and visitors.</p>
 
-<p><b>iTruth News:</b> is a mock news website that covers a wide range of topics, including tech, politics, sports, finances, education, world news, gaming, and fashion.</p>
+<p><b>iTruth News:</b> Developed iTruth News, a versatile website, with the integration of Firebase authentication for secure user access. Additionally, implemented a user-friendly feature enabling seamless posting of articles across various topics.
+</p>
 
-<p><b>Gracious-Crossing:</b>  is a mock project that provides users with a mortgage calculator tool that allows them to calculate their mortgage payments based on various factors such as loan amount, interest rate, and term. </p>
+<p><b>Gracious-Crossing:</b> Contributed to Gracious Crossing, a home-buying website, by implementing Firebase authentication for enhanced security and a seamless listing creation feature. </p>
 <p><b>Journey:</b>  is a mock project that offers engaging, informative, and well-researched travel blogs and news that cater to different audiences..</p>
 
 
