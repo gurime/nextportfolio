@@ -321,6 +321,7 @@ grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 gap:1rem;
 margin: auto;
 padding: 3rem ; 
+border-bottom: solid #fff 1px;
 }
 
 .card {
