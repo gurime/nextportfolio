@@ -23,7 +23,7 @@ return (
 <h1 className="about-title">About Me</h1>
 <h1 className="main-clock" id="clock"><Clock/></h1>
 </div>
-<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Front-End Developer and UX/UI designer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music. I hold a bachelor's and associate's degree in computer science from Southern New Hampshire University, where I spent 5 years studying and learning about programming, technology, and computer systems.</p>
+<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Front-End Developer and UX/UI designer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music. I hold a bachelor's in computer science from Southern New Hampshire University, where I spent 5 years studying and learning about programming, technology, and computer systems.</p>
   
 <p> With a background in IT/Web Design and a love for creating user-friendly and visually pleasing experiences, I've worked on diverse projects using Angular, React JS, Next Js. My design philosophy revolves around the idea that form should follow function, and I strive to create designs that are not only aesthetically pleasing, but also highly functional and efficient. </p>
   
@@ -66,11 +66,11 @@ color:'#af66ff',
 border:'solid 1px currentcolor'
 }} />
 
-<h1>CORE COMPETENCIES</h1>
-<p><b>Platforms: </b> Windows 7, Windows 8.1, Windows 10, Windows 11, MacOS</p>
+<h1>Skills</h1>
 <p><b>Networking: </b>  LAN / WAN Administration, VPN</p>
-<p><b>Languages: </b>HTML, CSS, JavaScript, React, Angular, Vue</p>
-<p><b>Tools: </b>LAN Manager, Wix, Figma, Affinity Photo, Affinity Designer, Affinity Publisher, Bootstrap, jQuery, Iobit Advanced System Care, MS Office Suite (Word, Excel, PowerPoint, Outlook).</p>
+<p><b>Programming: </b>  HTML, CSS, JavaScript, Node JS</p>
+<p><b>Libraries/Platforms: </b> React, Angular, Vue, Next JS, Windows 11, MacOS</p>
+<p><b>DATA/DATABASES: </b>Supabase, Firebase, MongoDB.</p>
 
 
 <hr
@@ -78,7 +78,7 @@ style={{
 color:'#af66ff',
 border:'solid 1px currentcolor'
 }} />
-<h1>INFORMATION TECHNIOLGY PROJECTS</h1>
+<h1>PROJECTS</h1>
 <p><b>Belief-Ministries:</b> is a mock church website that hosts events and provides resources for members and visitors.</p>
 
 <p><b>iTruth News:</b> is an application that incorporates Firebase authentication and allows the user to post on articles.
