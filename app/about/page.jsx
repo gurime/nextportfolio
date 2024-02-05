@@ -49,29 +49,6 @@ justifyContent:'space-between',
 placeItems:'center'
 }}
 >
-<p>Associate of Science in Information Technology </p>
-<p>September 2021</p>
-</div>
-
-
-
-<ul style={{display:'grid',gridGap:'20px'}}>
-<li style={{listStyleType:'disc',color:'#fff'}}>Relevant Coursework: Website Design | Computer Platform Technologies | Web and Mobile User Experiences  Business Systems Analysis & Design</li>
-<li style={{listStyleType:'disc',color:'#fff'}}>GPA: 3.097</li>
-</ul>
-
-
-
-
-
-<p>Southern New Hampshire University, Manchester, NH</p>
-<div
-style={{
-display:'flex',
-justifyContent:'space-between',
-placeItems:'center'
-}}
->
 <p>Bachelor of Science in Information Technology </p>
 <p>January 2023</p>
 </div>
@@ -104,7 +81,7 @@ border:'solid 1px currentcolor'
 <h1>INFORMATION TECHNIOLGY PROJECTS</h1>
 <p><b>Belief-Ministries:</b> is a mock church website that hosts events and provides resources for members and visitors.</p>
 
-<p><b>iTruth News:</b> Developed iTruth News, a versatile website, with the integration of Firebase authentication for secure user access. Additionally, implemented a user-friendly feature enabling seamless posting of articles across various topics.
+<p><b>iTruth News:</b> is an application that incorporates Firebase authentication and allows the user to post on articles.
 </p>
 
 <p><b>Gracious-Crossing:</b> Contributed to Gracious Crossing, a home-buying website, by implementing Firebase authentication for enhanced security and a seamless listing creation feature. </p>
