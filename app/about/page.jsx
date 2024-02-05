@@ -27,7 +27,7 @@ return (
   
 <p> With a background in IT/Web Design and a love for creating user-friendly and visually pleasing experiences, I've worked on diverse projects using Angular, React JS, Next Js. My design philosophy revolves around the idea that form should follow function, and I strive to create designs that are not only aesthetically pleasing, but also highly functional and efficient. </p>
   
-<p>I am skilled in a variety of design tools including affinity designer, affinity Photo, Figma. In my free time, you can find me staying up-to-date on the latest design trends, tinkering with new design tools, and collaborating with other designers on personal projects. Thank you for visiting my website and please reach out if you have questions or would like to hire me.</p>
+<p>I specialize in programming languages such as Next.js, React, Vue, Angular, and Node.js. In my free time, I stay up-to-date on the latest trends in web development and collaborate with other professionals on personal projects. Thank you for visiting my website, and please reach out if you have any questions or if you're interested in hiring me.</p>
 
 <p><b>Kind Regards</b> <br /> Phillip Andrew Bailey</p>
 <hr
@@ -84,7 +84,8 @@ border:'solid 1px currentcolor'
 <p><b>iTruth News:</b> is an application that incorporates Firebase authentication and allows the user to post on articles.
 </p>
 
-<p><b>Gracious-Crossing:</b> Contributed to Gracious Crossing, a home-buying website, by implementing Firebase authentication for enhanced security and a seamless listing creation feature. </p>
+<p><b>Gracious-Crossing:</b>  is an application that incorporates Firebase authentication and facilitates the creation of property listings. </p>
+
 <p><b>Journey:</b> is an application that integrates Firebase authentication and streamlines the process of creating and managing property listings for businesses using Journey's Admin dashboard.</p>
 
 
