@@ -108,7 +108,7 @@ border:'solid 1px currentcolor'
 </p>
 
 <p><b>Gracious-Crossing:</b> Contributed to Gracious Crossing, a home-buying website, by implementing Firebase authentication for enhanced security and a seamless listing creation feature. </p>
-<p><b>Journey:</b>  is a mock project that offers engaging, informative, and well-researched travel blogs and news that cater to different audiences..</p>
+<p><b>Journey:</b> is an application that integrates Firebase authentication and streamlines the process of creating and managing property listings for businesses using Journey's Admin dashboard.</p>
 
 
 
