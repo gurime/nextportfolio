@@ -57,7 +57,6 @@ placeItems:'center'
 
 <ul style={{display:'grid',gridGap:'20px'}}>
 <li style={{listStyleType:'disc',color:'#fff'}}>Relevant Coursework: Website Design | Computer Platform Technologies | Web and Mobile User Experiences  Business Systems Analysis & Design</li>
-<li style={{listStyleType:'disc',color:'#fff'}}>GPA: 3.134</li>
 </ul>
 
 <hr
