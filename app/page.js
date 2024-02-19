@@ -34,7 +34,7 @@ gap:'1pc'
 </div>
 {/**hero */}
 
-<h1 style={{textAlign:'center'}} className="hero-title"><span>Front-End Developer <br/> UX/UI Designer</span></h1>
+<h1 style={{textAlign:'center'}} className="hero-title"><span>Front-End Developer</span></h1>
 
 
 

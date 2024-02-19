@@ -23,11 +23,11 @@ return (
 <h1 className="about-title">About Me</h1>
 <h1 className="main-clock" id="clock"><Clock/></h1>
 </div>
-<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Front-End Developer and UX/UI designer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music. I hold a bachelor's in computer science from Southern New Hampshire University, where I spent 5 years studying and learning about programming, technology, and computer systems.</p>
+<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Front-End Developer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music.</p>
   
 <p> With a background in IT/Web Design and a love for creating user-friendly and visually pleasing experiences, I've worked on diverse projects using Angular, React JS, Next Js. My design philosophy revolves around the idea that form should follow function, and I strive to create designs that are not only aesthetically pleasing, but also highly functional and efficient. </p>
   
-<p>I specialize in programming languages such as Next.js, React, Vue, Angular, and Node.js. In my free time, I stay up-to-date on the latest trends in web development and collaborate with other professionals on personal projects. Thank you for visiting my website, and please reach out if you have any questions or if you're interested in hiring me.</p>
+<p>I specialize in programming languages such as Next.js. In my free time, I stay up-to-date on the latest trends in web development and collaborate with other professionals on personal projects. Thank you for visiting my website, and please reach out if you have any questions or if you're interested in hiring me.</p>
 
 <p><b>Kind Regards</b> <br /> Phillip Andrew Bailey</p>
 <hr
