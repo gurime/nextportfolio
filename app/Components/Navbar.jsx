@@ -12,7 +12,9 @@ return (
 <li><Link href="/" >Home</Link></li>
 <li><Link href="about" >About</Link></li>
 <li><Link href="contact" >Contact</Link></li>
-<li><Link href="password" >PasswordGenerator</Link></li>
+<li><Link href="password" >Password Generator</Link></li>
+<li><Link href="shortener" >Url Shortener</Link></li>
+<li><Link href="speedtest" >Speed Test</Link></li>
 </ul>
 </nav>
 </>
