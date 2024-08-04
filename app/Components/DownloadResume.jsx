@@ -13,7 +13,7 @@ export default function DownloadRseume() {
     <>
     <Link href="#!" 
 className="hero-button" 
-onClick={handleDownload}>Donwload Resume</Link>
+>Donwload Resume</Link>
     </>
   )
 }
