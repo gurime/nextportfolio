@@ -14,7 +14,6 @@ return (
 <li><Link href="contact" >Contact</Link></li>
 <li><Link href="password" >Password Generator</Link></li>
 <li><Link href="shortener" >Url Shortener</Link></li>
-<li><Link href="speedtest" >Speed Test</Link></li>
 </ul>
 </nav>
 </>
