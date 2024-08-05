@@ -11,7 +11,7 @@ const [isAnswer3Visible, setAnswer3Visibility] = useState(false);
 return (
 <>
 <div className="container">
-<h1 className="faq-title" >Contact Information</h1>
+<h1 className='password-title'>Contact Information</h1>
 {/**first question block */}
 <div className="question">
 <h2>Contact Number</h2>
