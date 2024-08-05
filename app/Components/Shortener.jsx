@@ -76,18 +76,9 @@ return (
       }}
     />
     <button
+     className='hero-button'
       type="submit"
-      style={{
-        width: '100%',
-        background: 'blue',
-        color: '#fff',
-        fontWeight: 600,
-        padding: '0.5rem 1rem',
-        borderRadius: '0.375rem',
-        border: 'none',
-        cursor: 'pointer',
-        transition: 'background-color 0.2s'
-      }}
+
       disabled={loading}
     >
       {loading ? (

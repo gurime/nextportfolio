@@ -23,9 +23,9 @@ return (
 <h1 className="about-title">About Me</h1>
 <h1 className="main-clock" id="clock"><Clock/></h1>
 </div>
-<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Front-End Developer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music.</p>
+<p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Software Engineer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music.</p>
   
-<p> With a background in IT/Web Design and a love for creating user-friendly and visually pleasing experiences, I've worked on diverse projects using Angular, React JS, Next Js. My design philosophy revolves around the idea that form should follow function, and I strive to create designs that are not only aesthetically pleasing, but also highly functional and efficient. </p>
+<p> With a background in IT/Web Design and a love for creating user-friendly and visually pleasing experiences, I've worked on diverse projects using React JS and Next Js. My design philosophy revolves around the idea that form should follow function, and I strive to create designs that are not only aesthetically pleasing, but also highly functional and efficient. </p>
   
 <p>I specialize in programming languages such as Next.js. In my free time, I stay up-to-date on the latest trends in web development and collaborate with other professionals on personal projects. Thank you for visiting my website, and please reach out if you have any questions or if you're interested in hiring me.</p>
 
@@ -55,9 +55,7 @@ placeItems:'center'
 
 
 
-<ul style={{display:'grid',gridGap:'20px'}}>
-<li style={{listStyleType:'disc',color:'#fff'}}>Relevant Coursework: Website Design | Computer Platform Technologies | Web and Mobile User Experiences  Business Systems Analysis & Design</li>
-</ul>
+
 
 <hr
 style={{
@@ -66,10 +64,10 @@ border:'solid 1px currentcolor'
 }} />
 
 <h1>Skills</h1>
-<p><b>Networking: </b>  LAN / WAN Administration, VPN</p>
-<p><b>Programming: </b>  HTML, CSS, JavaScript, Node JS</p>
-<p><b>Libraries/Platforms: </b> React, Angular, Vue, Next JS, Windows 11, MacOS</p>
-<p><b>DATA/DATABASES: </b>Supabase, Firebase, MongoDB.</p>
+<p><b>Frontend: </b>  React | Next JS | TypeScript | HTML | CSS | JavaScript</p>
+<p><b>Backend: </b> Node JS</p>
+<p><b>DATABASES: </b>Supabase | Firebase | MongoDB | PostgreSQL</p>
+<p><b>Other: </b>UI/UX Design  | SEO | Accessibility (WCAG 2.1) | Chrome DevTools</p>
 
 
 <hr
@@ -78,14 +76,14 @@ color:'#af66ff',
 border:'solid 1px currentcolor'
 }} />
 <h1>PROJECTS</h1>
-<p><b>Belief-Ministries:</b> is a mock church website that hosts events and provides resources for members and visitors.</p>
+<p><b>Belief-Ministries</b> is dedicated to empowering churches with the tools needed to create a meaningful online presence. </p>
 
-<p><b>iTruth News:</b> is an application that incorporates Firebase authentication and allows the user to post on articles.
+<p><b>iTruth News:</b> Stay informed with iTruth News - your reliable source for breaking news updates and the latest headlines.
 </p>
 
-<p><b>Gracious-Crossing:</b>  is an application that incorporates Firebase authentication and facilitates the creation of property listings. </p>
+<p><b>Gracious-Crossing</b> the real estate app for admins and users. Manage, list, and find properties with ease.  </p>
 
-<p><b>Journey:</b> is an application that integrates Firebase authentication and streamlines the process of creating and managing property listings for businesses using Journey's Admin dashboard.</p>
+<p><b>Doctor Care:</b> Explore Doctor Care to find detailed information about physicians, patient resources, and healthcare services.</p>
 
 
 

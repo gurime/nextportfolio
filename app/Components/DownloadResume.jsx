@@ -11,7 +11,7 @@ export default function DownloadRseume() {
   };
   return (
     <>
-    <Link href="#!" 
+    <Link onClick={handleDownload} href="#!" 
 className="hero-button" 
 >Donwload Resume</Link>
     </>

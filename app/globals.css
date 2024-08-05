@@ -28,7 +28,7 @@ text-align: center;
 nav {
 display: flex;
 justify-content: space-between;
-place-items: center;   
+align-items: center;   
 color: #fff;
 padding: 1rem;
 }
@@ -41,11 +41,9 @@ font-size: 24px;
    
 nav ul {
 display: flex;
-list-style: none;
-margin: 0;
 padding: 0;
 margin: auto;
-flex-wrap: wrap;
+list-style: none;
 }
   
 nav li {
@@ -62,6 +60,14 @@ letter-spacing: 1px;
 color: #fff;
 letter-spacing: 1px;
 }
+
+.small-nav{
+    display: flex;
+    justify-content: space-evenly;
+    place-items: center;
+}
+
+
 
 footer {
 display: flex;
@@ -317,11 +323,9 @@ transition: background-color 0.3s ease;
 .card-grid {
 display: grid;
 place-items: center;
-place-content: center;
 grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 gap:1rem;
 margin: auto;
-padding: 3rem ; 
 border-bottom: solid #fff 1px;
 }
 
@@ -406,48 +410,104 @@ line-height: 2rem;
 color: #fff;
 border-bottom: solid 1px #fff;
 }
+
+
   
+@keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
   
+  @keyframes slideOut {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
   
-@media(max-width:768px){
-nav {
-flex-direction: column;
+@media(min-width:768px){
+    .burger{
+        display: none;
+    }
 }
-.hero-title{
-font-size: 26px;
-}
-.profilepic-box{
-flex-direction: column;
-}
-
-.faq-title{
-color: #fff;
-font-size: 24px;
-}
+@media (max-width: 768px) {
+    nav { 
+      flex-direction: column; 
+      align-items: normal; 
+    }
 
 
-#tic-tac-toe{
-width: auto;
-}
-
-.card-grid{
-padding: 0 1rem;
-}
-
-ul a{
-font-size: 14px;
-}
-
-.aboutme-clock{
-flex-direction: column;
-}
-
-.about-title{
-font-size: 34px;
-}
-
-footer{
-flex-direction: column;
-}
-}
+   
+    .navlinks {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 250px;
+        background-color: #265cda;
+        line-height: 3;
+        flex-direction: column;
+        padding-top: 4rem;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+      }
     
+      .nav-open .navlinks {
+        transform: translateX(0);
+      }
+    
+      .burger {
+        display: block;
+        z-index: 1000;
+        cursor: pointer;
+      }
+  
+    .logo {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  
+    .hero-title { 
+      font-size: 26px; 
+    }
+  
+    .profilepic-box { 
+      flex-direction: column; 
+    }
+  
+    .faq-title { 
+      color: #fff; 
+      font-size: 24px; 
+    }
+  
+    #tic-tac-toe { 
+      width: auto; 
+    }
+  
+    .card-grid { 
+      align-items: normal;
+    }
+  
+    ul a { 
+      font-size: 14px; 
+    }
+  
+    .aboutme-clock { 
+      flex-direction: column; 
+    }
+  
+    .about-title { 
+      font-size: 34px; 
+    }
+  
+    footer { 
+      flex-direction: column; 
+    }
+  }
