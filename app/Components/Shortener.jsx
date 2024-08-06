@@ -71,14 +71,13 @@ return (
         transition: 'box-shadow 0.2s',
         backgroundColor: 'var(--input-bg, white)',
         color: 'var(--text-color, black)',
-        width:'50%'
       }}
     />
     <button
      className='hero-button'
       type="submit"
 style={{
-  width:'60%'
+
 }}
       disabled={loading}
     >
