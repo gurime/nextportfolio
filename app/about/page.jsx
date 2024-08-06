@@ -20,7 +20,7 @@ return (
 <Navbar/>
 <div className="aboutcontainer">
 <div className="aboutme-clock">
-<h1 className="about-title">About Me</h1>
+<h1 className="password-title">About Me</h1>
 <h1 className="main-clock" id="clock"><Clock/></h1>
 </div>
 <p>Hi there, and thanks for stopping by! My name is Phillip Andrew Bailey and I am a Software Engineer based in LaFayette, Georgia. My hobbies comprise video games, wild-life documentaries, anime cartoons, coding, and listening to old-school rnb music.</p>

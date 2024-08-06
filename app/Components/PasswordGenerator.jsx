@@ -26,7 +26,7 @@ return (
 <h1 className='password-title'>Password Generator</h1>
 
 <div className='passcontainer'>
-<h3  style={{color:"white"}}>Enter the desired length of the password:</h3>
+<h3  style={{color:"white",textAlign:'center'}}>Enter the desired length of the password:</h3>
 <p style={{color:"white"}}>Max Length: 25</p>
 
 <input

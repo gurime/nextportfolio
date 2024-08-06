@@ -53,7 +53,6 @@ return (
        flexDirection: 'column',
        alignItems: 'center',
        width: '100%',
-       maxWidth: '400px',
        gap: '1rem'
   }}>
     <input
@@ -72,13 +71,15 @@ return (
         transition: 'box-shadow 0.2s',
         backgroundColor: 'var(--input-bg, white)',
         color: 'var(--text-color, black)',
-        width:'92%'
+        width:'50%'
       }}
     />
     <button
      className='hero-button'
       type="submit"
-
+style={{
+  width:'60%'
+}}
       disabled={loading}
     >
       {loading ? (
