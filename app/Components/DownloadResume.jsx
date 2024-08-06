@@ -5,8 +5,8 @@ import { saveAs } from "file-saver";
 export default function DownloadRseume() {
   const handleDownload = () => {
     saveAs(
-      "/Resume.docx",
-      "Resume.docx"
+      "/Resume.pdf",
+      "Resume.pdf"
     );
   };
   return (
